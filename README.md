@@ -1,5 +1,5 @@
-#Lessons on Vue
-###Or, how to translate everything to Reactjs
+# Lessons on Vue
+### Or, how to translate everything to Reactjs
 
 <p>These are my lessons on Vue.  Vue seems very suited for components, so I am creating a project where each lesson uses one or more loosely connected VUE components</p>
 
