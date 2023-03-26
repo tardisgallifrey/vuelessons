@@ -1,24 +1,8 @@
-# hello2
+#Lessons on Vue
+###Or, how to translate everything to Reactjs
 
-## Project setup
-```
-npm install
-```
+<p>These are my lessons on Vue.  Vue seems very suited for components, so I am creating a project where each lesson uses one or more loosely connected VUE components</p>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+<p>First step is to get the data on the page, a major rule of mine.  Second, I try to play with the code, especially the HTML, to make it look as I wish.  Third, I comment what I think is going on in my own terms.</p>
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```npm run serve``` -- don't forget this.
